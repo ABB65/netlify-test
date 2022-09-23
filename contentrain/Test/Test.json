@@ -1,7 +1,9 @@
 [
   {
     "ID": "4e7690a2-68e5-4403-9e10-e86d0a61ecc2",
-    "test-array": [],
+    "test-array": [
+      "sdffds"
+    ],
     "related": "",
     "createdAt": 1663952211275
   }
