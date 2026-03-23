@@ -1,14 +1,14 @@
 {
   "lastOperation": {
     "locale": "en",
-    "model": "",
+    "model": "site-config",
     "source": "mcp-studio",
-    "timestamp": "2026-03-23T10:53:08.867Z",
-    "tool": "init_project"
+    "timestamp": "2026-03-23T13:21:55.966Z",
+    "tool": "save_content"
   },
   "stats": {
     "entries": 0,
-    "lastSync": "2026-03-23T10:53:08.867Z",
+    "lastSync": "2026-03-23T13:21:55.966Z",
     "locales": [
       "en"
     ],
