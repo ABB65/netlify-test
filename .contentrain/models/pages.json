@@ -1,0 +1,25 @@
+{
+  "domain": "content",
+  "fields": {
+    "content": {
+      "type": "richtext"
+    },
+    "published": {
+      "default": false,
+      "type": "boolean"
+    },
+    "slug": {
+      "required": true,
+      "type": "slug",
+      "unique": true
+    },
+    "title": {
+      "required": true,
+      "type": "string"
+    }
+  },
+  "i18n": false,
+  "id": "pages",
+  "kind": "collection",
+  "name": "Pages"
+}

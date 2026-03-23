@@ -1,0 +1,19 @@
+{
+  "domain": "system",
+  "fields": {
+    "description": {
+      "type": "text"
+    },
+    "logo": {
+      "type": "image"
+    },
+    "title": {
+      "required": true,
+      "type": "string"
+    }
+  },
+  "i18n": false,
+  "id": "site-config",
+  "kind": "singleton",
+  "name": "Site Configuration"
+}
